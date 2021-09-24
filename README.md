@@ -1,6 +1,8 @@
 ###### Hi  👋
 
-## Who Am I
+## Future Software Engineer Candidate
+
+## Who the hell am I?
 
 I am a 3rd year student at Gazi University, Department of Computer Engineering.
 I want to continue my career as a successful software engineer after graduating from university in frontend or backend software development fields.
