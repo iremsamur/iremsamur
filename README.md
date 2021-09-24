@@ -14,7 +14,9 @@ I do projects in the fields of frontend and backend web development
 <br>
 My specialties are Java, .Net Framework, MSSQL, MySQL, HTML5, CSS3, Bootstrap 4, Object-Oriented Programming.
 
-![github-small](https://seeklogo.com/images/M/microsoft-net-framework-logo-B9BA1A3DA1-seeklogo.com.png)
+![github-small](https://file.wiki/wp-content/uploads/2018/11/Download-.NET-Framework-Offline-Installers-788x562.png)
+![github-small](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png)
+
 
 
 ###### My Github Stats
