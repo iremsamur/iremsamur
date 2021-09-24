@@ -14,11 +14,7 @@ I do projects in the fields of frontend and backend web development
 <br>
 My specialties are Java, .Net Framework, MSSQL, MySQL, HTML5, CSS3, Bootstrap 4, Object-Oriented Programming.
 
-![Adsız tasarım (1)](https://user-images.githubusercontent.com/76771500/134708590-e84326b8-abed-485c-bcd2-3d8b7aadd922.png)
-
-![Adsız tasarım (1)_300x300](https://user-images.githubusercontent.com/76771500/134708835-bb06d91f-bc2b-491a-b6f6-2daa3eb05c00.jpg)
-
-![Adsız tasarım (1)_1000x500](https://user-images.githubusercontent.com/76771500/134708925-f37c9d53-e8fd-403c-9bed-cd8213f89bfb.jpg)
+![Adsız tasarım (1)_1500x700](https://user-images.githubusercontent.com/76771500/134709128-12006b51-633a-40ff-803e-338632ef90bf.jpg)
 
 
 ###### My Github Stats
