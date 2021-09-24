@@ -14,6 +14,8 @@ I do projects in the fields of frontend and backend web development
 <br>
 My specialties are Java, .Net Framework, MSSQL, MySQL, HTML5, CSS3, Bootstrap 4, Object-Oriented Programming.
 
+![alt text](http://https://miro.medium.com/max/600/0*c_tQcDYJ4HfL3Vtb/to/img.png)
+
 
 ###### My Github Stats
 
