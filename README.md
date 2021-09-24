@@ -5,8 +5,8 @@
 ## Who the hell am I?
 
 :woman_student: I am a 3rd year student at Gazi University, Department of Computer Engineering.
-I want to continue my career as a successful software engineer after graduating from university in frontend or backend software development fields.
-For this purpose, I improve myself with technical trainings and conferences in my student life.
+:computer: I want to continue my career as a successful software engineer after graduating from university in frontend or backend software development fields.
+:book: For this purpose, I improve myself with technical trainings and conferences in my student life.
 I do projects in the fields of frontend and backend web development
 My specialties are Java, .Net Framework, MSSQL, MySQL, HTML5, CSS3, Bootstrap 4, Object-Oriented Programming.
 
