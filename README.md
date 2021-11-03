@@ -13,7 +13,7 @@
 
 :purple_square: I do projects in the fields of frontend and backend web development
 <br>
-:blue_square: My specialties are Java, .Net Framework, MSSQL, MySQL, HTML5, CSS3, Bootstrap 4, Object-Oriented Programming.
+:blue_square: My specialties are .Net Core, .Net Framework, Java, MSSQL, MySQL, HTML5, CSS3, Bootstrap 4, Object-Oriented Programming.
 
 ![Adsız tasarım (1)_1500x700](https://user-images.githubusercontent.com/76771500/134709128-12006b51-633a-40ff-803e-338632ef90bf.jpg)
 
