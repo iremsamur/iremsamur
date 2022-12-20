@@ -4,7 +4,7 @@
 
 ## Who the hell am I?
 
-:woman_student: I am a 3rd year student at Gazi University, Department of Computer Engineering.
+:woman_student: I am a 4th year student at Gazi University, Department of Computer Engineering.
 <br>
 :computer: I want to continue my career as a successful software engineer after graduating from university in frontend or backend web software development fields.
 <br>
