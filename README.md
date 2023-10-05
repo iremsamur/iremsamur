@@ -1,19 +1,19 @@
 ###### Hi  👋
 
-## Future Software Engineer Candidate
+## Software Engineer
 
 ## Who the hell am I?
 
-:woman_student: I am a 4th year student at Gazi University, Department of Computer Engineering.
+:woman_student: I graduated from Gazi University, Department of Computer Engineering.
 <br>
-:computer: I want to continue my career as a successful software engineer after graduating from university in frontend or backend web software development fields.
+:computer: I continue my career as a software engineer after graduating from university in frontend or backend web software development fields.
 <br>
-:book: For this purpose, I improve myself with technical trainings and conferences in my student life.
+:book: For this purpose, I improved myself with technical trainings and conferences in my student life.
 <br>
 
 :purple_square: I do projects in the fields of frontend and backend web development
 <br>
-:blue_square: My specialties are .Net Core, .Net Framework, Java, MSSQL, MySQL, HTML5, CSS3, Bootstrap 4, Object-Oriented Programming.
+:blue_square: My specialties are .Net Core, .Net Framework, Java Spring, MSSQL, MySQL, HTML5, CSS3, Bootstrap 4, Object-Oriented Programming, Microservices.
 
 ![Adsız tasarım (1)_1500x700](https://user-images.githubusercontent.com/76771500/134709128-12006b51-633a-40ff-803e-338632ef90bf.jpg)
 
