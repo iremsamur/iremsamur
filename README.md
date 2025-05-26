@@ -1,6 +1,6 @@
 ###### Hi  👋
 
-## Software Engineer
+## Software Engineer at Akbank
 
 ## Who the hell am I?
 
